@@ -73,3 +73,7 @@
 	- Using `sudo lsof | grep LISTEN` and `curl 3.218.172.180:9000/hooks/khan` to test the webhook.
 - Steps to set up a notifier in GitHub or DockerHub
 	- Login to DockerHub. Next, click on the Repositories tab. Click on your repository of choice. Click on the Webhooks tab. Under New Webhook enter a vaild Webhook name and URL (`http://3.218.172.180:8080/`) and then click create. 
+
+## Part 4 - Diagrams
+
+![diagram](images/Diagram.png)
