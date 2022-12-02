@@ -1,7 +1,7 @@
 name: Docker Build & Push
 on:
-   push:
-   workflow-dispatch:
+  push:
+  workflow-dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
